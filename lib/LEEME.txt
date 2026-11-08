@@ -1,0 +1,1 @@
+Este proyecto no necesita dependencias externas. Swing forma parte de Java.
